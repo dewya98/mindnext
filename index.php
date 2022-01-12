@@ -180,13 +180,13 @@ session_start();
         <div class="box" id="b5">
             <a href="portfolio.php"><h2>포트폴리오</h2></a>
             <div class="circle">
-                <div class="circles"><a href="haeun/haeun.html" target="_blank">
+                <div class="circles"><a href="../haeun/haeun.html" target="_blank">
                     <img src="images/haeunlogo.png" alt="">
                     <h4>해운대중학교</h4></a></div>
-                <div class="circles"><a href="dah/index.php" target="_blank">
+                <div class="circles"><a href="../dah/index.php" target="_blank">
                 <img src="images/뮤지엄다로고_blue.jpg">
                     <div class="capt"><h4>뮤지엄 다</h4></a></div></div>
-                <div class="circles"><a href="tour/index.html" target="_blank">
+                <div class="circles"><a href="../tour/index.html" target="_blank">
                     <img src="images/tourlogo.png" alt="">
                     <h4>간다투어</h4></a></div>
            </div>
