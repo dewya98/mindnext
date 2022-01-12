@@ -1,4 +1,4 @@
 <?php 
-$conn=mysqli_connect("localhost","root","autoset","testdb");
+$conn=mysqli_connect("localhost","urDBid","urDBpw","urDBdir");
 ?>
 
